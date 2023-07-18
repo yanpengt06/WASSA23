@@ -1,0 +1,10 @@
+Averaged Pearson Correlations: 0.6571
+Empathy Pearson Correlation: 0.6662
+Distress Pearson Correlation: 0.648
+Macro F1-Score: 0.663
+Micro Recall: 0.7724
+Micro Precision: 0.751
+Micro F1-Score: 0.7615
+Macro Recall: 0.6445
+Macro Precision: 0.7196
+Micro Jaccard: 0.6149
