@@ -1,0 +1,502 @@
+[
+    {
+        "essay": "Wow, I never would have guessed that squirrels could carry leprosy. It just goes to show how much we still have to learn about the world around us. I wonder how this is going to affect the conservation efforts for red squirrels in the UK. It's important that we continue to study these kinds of findings so we can make informed decisions when it comes to protecting wildlife and public health.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "Hey man, this is crazy. I had no idea air pollution causes this much damage to us. Did you know in India it kills almost half a million people per year? That is absolutely insane. Something has to be done about this pollution. I wonder what it is in America? It's probably even worse here than it is there. Some places have real bad air quality. It's shocking to think that pollution is not only contributing to respiratory diseases, but also to shorter survival times for lung cancer patients. This study highlights the urgent need for governments, businesses, and individuals to take action and reduce air pollution levels, not only for our own health, but for the health of the planet as well. We can't afford to continue living in ignorance about the harmful effects of air pollution on our bodies.",
+        "article_id": 302,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "I can't believe that people would attack those who are trying to protect wildlife from poachers. It's disgusting how some people prioritize their own interests over the well-being of endangered animals. It's also surprising to me that this type of attack could happen in a place where conservation efforts are usually respected. These rangers risk their lives every day to protect animals that cannot protect themselves. They deserve our respect and support, not violent attacks. I hope that the attackers are brought to justice and that this incident does not discourage rangers from continuing their important work.",
+        "article_id": 71,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "It is absolutely disgusting to hear about the attack on the anti-poaching unit rangers in Mozambique. These brave individuals are risking their lives every day to protect endangered species from poachers. This type of senseless violence towards those trying to do good is never acceptable. I am surprised and saddened to hear about this incident. It is important for governments and communities to support and protect those who are working towards a greater good for all. My thoughts are with the rangers and their families during this difficult time.",
+        "article_id": 71,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "I was really surprised to read about the male guardianship system in Saudi Arabia because it seems so outdated and unfair. It's amazing to see that there are Saudi women who are standing up and fighting for their rights. Women should be able to make their own decisions without needing the permission of a male guardian. I hope this petition is successful and the system is abolished. This could be a major step towards achieving gender equality in Saudi Arabia.",
+        "article_id": 283,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "It is absolutely infuriating that the bid for stronger protection for African elephants was defeated at the wildlife summit. Are people not aware of the dire situation these magnificent creatures are in? Poachers and the illegal ivory trade are decimating elephant populations, and action needs to be taken before it's too late. The fact that some countries are still opposing stricter protection for elephants is shocking and surprising. It's time for the international community to come together and take strong action to save the elephants before it's too late.",
+        "article_id": 72,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "It's shocking to read about the mass wildlife dying due to a river drying up in South America. I had no idea how interconnected everything in nature could be. It's scary to think about what might happen if this keeps occurring. I hope that efforts are made to restore the river and help the animals that are affected by this situation. Awareness and action are needed to prevent these types of tragedies.",
+        "article_id": 397,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "It's disgusting to see how much food waste there is in America despite people feeling guilty about it. It's shocking to hear that nearly 40% of food produced in the country goes to waste every year, especially when there are so many people going hungry. It's a clear reflection of our society's values and priorities. We need to start being more mindful of our food consumption and learn to better utilize what we have. It's not just about saving money or reducing environmental impact, it's about being responsible citizens who care about the well-being of others. We need to take action and make changes before it's too late.",
+        "article_id": 53,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "Wow, I never would have guessed that red squirrels could carry leprosy! It's surprising to learn that a disease we associate with humans can also affect animals. I wonder how this will affect the conservation efforts for red squirrels in the UK. It's important to research and understand how diseases can impact wildlife populations, and take measures to prevent outbreaks. This newfound knowledge can lead to more effective conservation strategies in the future.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "Wow, I had no idea that even rivers could run dry. It's really surprising to think about the impact that it could have on wildlife. It's heartbreaking to read about the animals dying en masse as a result of it. I hope that people start to take this seriously and work towards finding ways to prevent it from happening. We need to take a more proactive approach in preserving the environment and the creatures that call it home.",
+        "article_id": 397,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "It's interesting to see how many Americans feel guilty about wasting food, yet still continue to do it. I wonder if it's because we simply have too much access to food and the ability to easily buy more when we want it. Or maybe it's a lack of education on how to properly store and preserve food. Whatever the reason may be, it's important to start taking action towards reducing food waste. Maybe implementing more community composting programs or donating excess food to those in need could help. We all have a responsibility to do our part in decreasing waste and conserving resources.",
+        "article_id": 53,
+        "emotion": "Neutral/Surprise"
+    },
+    {
+        "essay": "I am surprised to learn that Americans are feeling guilty about wasting too much food, yet they still continue to do it. It's understandable that people might not know the best ways to minimize food waste, or forget about items that have been sitting in the fridge for too long. It's important to remind ourselves of the impact that wasting food has on both the environment and those in need. While it may be difficult to completely eliminate food waste, there are steps we can take to minimize it such as planning meals, buying only what we need, and donating excess food to food banks. It's time we take responsibility for our actions and lessen the amount of food waste in our country.",
+        "article_id": 53,
+        "emotion": "Neutral/Surprise"
+    },
+    {
+        "essay": "It's disgusting and surprising to see how much food Americans waste, even when they feel guilty about it. The fact that so much food goes to waste while millions of people in the world are starving is unacceptable. It's alarming to see that despite the awareness and education about food waste, it still continues to happen on such a massive scale. I hope that people start to take action to reduce their food waste and do their part to help those in need. We need to change our habits and be more mindful about what we're consuming and wasting.",
+        "article_id": 53,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "Wow, I am completely surprised by this news! I had no idea that red squirrels could carry leprosy. It's crazy to think about how many animals we interact with on a daily basis that we don't know could potentially carry diseases like this. It's important that we continue to study and research the animals around us so we can better understand the risks associated with them. I hope this discovery leads to more awareness about this particular disease and how it can be spread, so we can take measures to prevent it.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "The tragedy of a child falling from an apartment window is devastating. It makes me angry and surprised that this kind of event still happens in this day and age. It's frustrating to think that we haven't found a solution to prevent these types of accidents from occurring. The investigators are right in saying that this should serve as a warning to others. We need to take more precautions to keep our children safe, whether it be through window guards or simply watching over them more closely. It's heartbreaking to think of what could have been done to prevent this tragedy.",
+        "article_id": 169,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "It's absolutely sickening to hear about villagers attacking the very people trying to protect the wildlife. These rangers are putting their lives on the line to combat poaching and preserve the animals, yet they are met with violence from the very communities they are trying to help. It's also surprising to hear that this incident happened in Mozambique, a country known for its conservation efforts. We must condemn these actions and work towards finding a solution where the villagers and rangers can work together towards a common goal of preserving the wildlife.",
+        "article_id": 71,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "It's disgusting how much food gets wasted in America, despite people feeling guilty about it. A recent study showed that about 72% of Americans throw away edible food regularly, while simultaneously acknowledging that it's a problem. What's surprising to me is that people don't realize the impact this has on the environment and on those who are food insecure. It's time for Americans to start taking action, by changing our consumption habits and finding ways to reduce food waste. We need to start valuing our food and recognizing the resources that go into producing it, rather than treating it as disposable.",
+        "article_id": 53,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "I am really surprised to hear about the passing of Janet Reno. She was the first female attorney general in the United States, and that is quite an accomplishment. From what I've read, she had a long and impressive career in public service. Her legacy will always be one of breaking barriers and making history. It is always sad to lose someone who has contributed so much to our society. My thoughts are with her friends and family during this time.",
+        "article_id": 177,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "This news just breaks my heart. It's devastating that people are being forced out of their homes with such little notice. The fact that they are getting a warning by text message is so impersonal, as if their forced displacement is just a matter of routine. The thought of people frantically packing their belongings and leaving everything they've known behind is just so sad. I am also really surprised that this is happening now, years after the initial conflict in Aleppo. It just shows how complicated and ongoing the situation truly is. My thoughts are with those that have to leave and those that are left behind.",
+        "article_id": 47,
+        "emotion": "Sadness/Surprise"
+    },
+    {
+        "essay": "Wow, this is truly surprising! I had no idea that red squirrels could carry leprosy. It's always interesting to learn new information about the natural world around us. It's concerning to hear that this disease could potentially spread to humans, but it's important to remember that the risk is still very low. This discovery just goes to show how much there is still left to explore and learn about our planet and the creatures that inhabit it.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "It's truly frustrating and surprising how many accidents occur that could easily be avoided. How does a child even manage to fall out of a window? I understand that accidents happen, but this is just unacceptable. It's important for people to be aware of the potential dangers and take precautions. It's a tragedy that this had to happen and hopefully it serves as a warning to others to be more mindful and cautious in their daily lives, especially when it comes to the safety of children.",
+        "article_id": 169,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "Wow, I never would have thought that squirrels could carry leprosy. It's really surprising to think that an animal that's usually associated with cuteness and friendliness could actually be carrying such a serious disease. It just goes to show that there are always new things to learn and discover about the world around us. As always, it's important to take precautions and educate ourselves about potential risks, but it's also important not to let fear consume us.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "Wow, I had no idea that red squirrels were carrying leprosy! That's definitely surprising. I wonder how this will affect conservation efforts for red squirrels, and if there are any potential risks for humans to contract the disease from them. It just goes to show that there's always something new to learn about the natural world. I hope that further research can shed more light on this unexpected discovery.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "I am absolutely disgusted and surprised by the news of a young wolf being shot down by a government sniper. It's cruel and unnecessary to take the life of a wild animal that is just trying to find its way in this world. I can't help but wonder what kind of message this sends to the rest of nature. It's not just about the wolf itself, but about how we treat the planet and every creature that lives on it. We need to do better as a society and find ways to coexist with the wildlife around us.",
+        "article_id": 39,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "It's honestly disgusting that Americans waste so much food when there are people all over the world who are starving. It surprises me how little we seem to care about the issue, despite feeling guilty about it. I think we need to start taking responsibility for our actions and start making changes in our daily lives. We could start by planning our meals better, composting our food scraps, and donating excess food to food banks or shelters. It's time to stop wasting food and start valuing it for the precious resource that it is.",
+        "article_id": 53,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "I was surprised to hear about the passing of Janet Reno. She was such a trailblazer for women in the legal profession, and the fact that she was the first female Attorney General is a testament to her intelligence and hard work. It's clear that she was an important public servant who cared deeply about upholding the law and protecting American citizens. While I didn't know her personally, I have great respect for her legacy and the impact she had on our country. Rest in peace, Janet Reno.",
+        "article_id": 177,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "It's surprising to see that despite feeling guilty about wasting food, Americans still continue to do so. While some may blame it on a lack of education or awareness, I think it ultimately comes down to convenience and consumer culture. We are always encouraged to buy more, and often we prioritize our own convenience over the well-being of the planet or those in need. But with more and more information about the environmental impact of food waste, I hope we can all make a conscious effort to reduce our waste and think more about the impact of our actions.",
+        "article_id": 53,
+        "emotion": "Neutral/Surprise"
+    },
+    {
+        "essay": "The news that more toddlers and preschoolers are overdosing on opioids is both disgusting and surprising. How is it even possible for young children to have access to these dangerous drugs? It's an alarming reminder that we need to do more to keep these drugs out of the hands of children. Parents and caregivers should be more vigilant in locking up prescription drugs and disposing of them properly. Doctors also need to be more cautious in prescribing opioids to young children. We must take action to prevent these tragedies from happening in the future.",
+        "article_id": 301,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "This news about red squirrels carrying leprosy is truly surprising. I never would have thought of such a thing! It's always interesting to learn new information like this, and it's also a reminder of how interconnected everything in the world is. It's amazing to think that even squirrels can carry diseases that have affected humans for so long. I hope they find a way to manage this and protect the squirrels and humans alike.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "When I first heard about air pollution causing lung cancer, I was surprised. It's hard to imagine that something as invisible as air pollution could cause such serious health issues. This study only confirms what we have known for quite some time: air pollution is a serious problem that needs to be addressed. We need to take more drastic measures to minimize air pollution to protect our health and the health of our loved ones. It's shocking to think that air pollution may even shorten the lives of those who have already been diagnosed with lung cancer. We need to act now to combat air pollution and save lives!",
+        "article_id": 302,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "I cannot believe that the haze from the Indonesian fires may have killed over 100,000 people. That number is absolutely shocking. It is disheartening to know that this natural disaster is impacting so many lives. We need to take a closer look at our environment and do more to prevent these types of disasters from happening in the future. It's time to come up with stricter measures to ensure that we protect our planet and the people who inhabit it. This is truly an eye-opening report that should serve as a call to action for all of us to do better.",
+        "article_id": 147,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "It's frustrating and surprising to hear about another child falling from an apartment window. It's time we start taking this issue seriously and implementing solutions to prevent such tragedies from happening. Building owners need to install secure window guards and parents need to keep a watchful eye on their children to ensure their safety. This shouldn't have to be a lesson learned the hard way, but it's up to all of us to make sure it doesn't happen again.",
+        "article_id": 169,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "This story about the young wolf being gunned down by a government sniper is absolutely disgusting and shocking. Why is it that we as humans feel the need to kill anything that we see as a threat or inconvenience? The fact that this wolf traveled over 700 miles just to be killed is heartbreaking. We need to start valuing and respecting animal life and finding ways to coexist with them rather than resorting to violence. It's surprising to me that in this day and age, we still resort to such barbaric methods of dealing with wildlife. We can do better than this.",
+        "article_id": 39,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "It is absolutely disgusting and surprising to hear about the senseless killing of a young wolf that traveled over 700 miles. It's heartbreaking to think about how much effort this animal put into finding a new home, only to be met with a bullet. It's even more disturbing to find out that this was carried out by a government sniper. It seems like such a waste of life and resources. Wolves are an important part of the ecosystem and we should be doing everything we can to protect them, not kill them. This is a tragedy that should not be taken lightly and I hope something is done to prevent this kind of senseless killing from happening again.",
+        "article_id": 39,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "Hey, did you know that exposure to air pollution could cause lung cancer patients to have shorter survival times? I was really surprised to learn this. It makes me think about how much pollution we're exposed to on a daily basis without even realizing it. I wonder what we can do to try to reduce our exposure to air pollution. Maybe it's time to invest in better air filtration systems or use public transportation more often. We need to take action to protect our health and the health of those around us.",
+        "article_id": 302,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "The senseless killing of this young wolf just makes me feel disgusted and surprised all at once. After traveling such a long distance, it's heartbreaking to think that its end was met with a sniper's bullet. It's difficult to understand why people feel the need to harm animals in this way, especially when they pose little to no threat to human safety. It's a sad reminder of just how far we still have to go in terms of preserving wildlife and their habitats. I can only hope that steps are taken to prevent such tragedies from happening in the future.",
+        "article_id": 39,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "It's heartbreaking to read about the residents in Aleppo getting a text message warning that they have only 24 hours to leave. No one should have to live in fear like that, constantly worried about their safety and whether or not they will make it through the day. It's truly surprising to think about the level of violence and destruction that's happening in the world today. What can we do to help these people? It's hard to know where to begin, but something has to be done to ensure the safety and wellbeing of innocent civilians caught up in these conflicts. We can only hope that the situation improves and that these people receive the help and support they need.",
+        "article_id": 47,
+        "emotion": "Sadness/Surprise"
+    },
+    {
+        "essay": "Wow, this is really surprising news! I had always thought of squirrels as harmless little creatures, but now we find out that they can carry leprosy. Who would have thought? I wonder how widespread this really is, and what kind of risks we should be concerned about. It's good that they've discovered this now, because it means we can take steps to ensure that we don't get infected. At the same time, it's a little unsettling to think of all the things out there that we still don't know about.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "I am absolutely disgusted and surprised by the senseless killing of the young wolf after it traveled more than 700 miles. Wolves are an important part of our ecosystem and their presence should be protected, not targeted. What is even more shocking is that it was a government sniper who did the killing. We should be holding those in power accountable for their actions and reminding them of their responsibility to protect our environment and wildlife. It's time we start valuing the lives of all creatures, no matter how big or small.",
+        "article_id": 39,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "It's really disgusting how much food is wasted in America, even though so many people go hungry every day. It's surprising to me that people feel guilty about it but still do it. We need to start taking action to reduce food waste, whether it's through composting, meal planning, or getting involved in organizations that redistribute excess food to those in need. It's not only a moral issue, but it's also environmentally unsustainable. Let's start making changes and be less wasteful of something so important.",
+        "article_id": 53,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "Wow, I never would have guessed that red squirrels carry leprosy. It's surprising and also concerning. It makes me wonder how many other animals out there carry diseases that we are unaware of. I hope that scientists will continue to study this and find ways to prevent the spread of leprosy, both to other animals and humans. It's important that we stay informed about potential health risks from animals and take necessary precautions to protect ourselves and our pets.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "It's always concerning to hear about any increase in suicide rates, but seeing it in kids is particularly alarming. I would never have guessed that children would be struggling with thoughts of suicide. I wonder what could be causing this rise - perhaps increased social media and online bullying? Regardless of the cause, it's important for parents and educators to be aware of the signs and take action to prevent these tragic deaths. It's time to start focusing on mental health in children and providing them with the support they need.",
+        "article_id": 304,
+        "emotion": "Neutral/Surprise"
+    },
+    {
+        "essay": "I am surprised to hear about the passing of Janet Reno, the first female US attorney general. She was truly a trailblazer for women in law and politics. I'm sure her legacy will live on and inspire many women to pursue leadership positions in government. It's always a shock when someone like her passes away, but we should take comfort in knowing that she made a significant impact during her time here. May she rest in peace.",
+        "article_id": 177,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "Wow, I am completely surprised to learn that British red squirrels can carry leprosy. It's amazing how much we still don't know about the natural world and the potential dangers that come with it. I hope scientists can further study the implications of this discovery and develop ways to protect both humans and the squirrels. It's always interesting to learn something new and to be reminded that there's still so much left to discover.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "It's sad to hear that suicide deaths are on the rise in kids. It's surprising to think that kids so young could even consider ending their own life. It's important for parents, teachers, and other mentors to be aware of the warning signs and provide support and resources to those who are struggling. We need to educate ourselves on how to prevent this issue and work towards a solution. It's never too early to start talking about mental health with our children and creating a safe space for them to express their feelings.",
+        "article_id": 304,
+        "emotion": "Neutral/Surprise"
+    },
+    {
+        "essay": "It's surprising to hear that Americans feel guilty about wasting food but still do it. It's understandable that we might not want to waste food, especially with so many people going hungry in the world. However, it can be difficult to gauge exactly how much food we will need, and often we overestimate. Perhaps it would be helpful to take a closer look at our shopping habits and try to buy only what we need. Additionally, we could look for ways to preserve and use leftovers creatively. It's important to acknowledge our guilt and work towards finding solutions for this issue.",
+        "article_id": 53,
+        "emotion": "Neutral/Surprise"
+    },
+    {
+        "essay": "Wow, I had no idea that red squirrels could carry leprosy. It's surprising how little we know about the diseases that animals can carry and how they can affect humans. I hope this discovery leads to more research and awareness about the risks of interacting with wild animals. It's important to take proper precautions and protect ourselves from potential diseases, especially if we're in close contact with wildlife. This is definitely a surprising and eye-opening discovery.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "I am absolutely surprised and saddened by the news of the dying wildlife in South America. It's hard to imagine such a large river running dry and the impact that it would have on the ecosystem. It's important that we take the necessary steps to prevent similar situations from happening in the future. We need to be more mindful about our use of resources and take action to protect our environment before it's too late. It's time for us to be more responsible and take action to prevent the loss of lives, both animal and human.",
+        "article_id": 397,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "Wow, I never would have guessed that red squirrels could carry leprosy. I always thought they were cute, harmless little creatures. It's surprising to learn that they could transmit a disease like leprosy to humans. I wonder how common this is and if there are any precautions people should take when interacting with red squirrels. It just goes to show that there is always something new to learn about the world around us.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "It is absolutely infuriating and unbelievable to hear about yet another tragic incident of a child falling from a window. How many more times does this need to happen before people start taking the necessary precautions to prevent it? It's shocking to think that something as simple as installing window guards or locks could have prevented this from happening. The fact that this is still an issue is unacceptable. This tragedy should serve as a warning to all parents and caretakers to take the necessary steps to ensure the safety of children. Installing proper safety measures should not be optional, it should be mandatory for all buildings with children present. It's time for action to be taken to prevent any more unnecessary and heartbreaking incidents from occurring.",
+        "article_id": 169,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "It's absolutely disgusting to hear that more and more toddlers and preschoolers are overdosing on opioids. How is it even possible for them to get their hands on such dangerous medication? I'm surprised that there are not more regulations in place to keep these types of medications out of the reach of children. We need to do better as a society to protect our most vulnerable members. It's heartbreaking to think of the damage that can be done to these children and their families. I hope that stricter regulations are put in place to ensure that this doesn't happen again.",
+        "article_id": 301,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "Wow, I had no idea that women in Saudi Arabia were still under the male guardianship system. It's shocking to think that women are not even allowed to travel or make important decisions without the permission of a male guardian. I think it's about time for change and I fully support the women who have filed this petition. It's time for women to have the freedom and autonomy to make their own choices and live their lives as they see fit. I hope that this petition gains traction and leads to meaningful change in Saudi Arabia.",
+        "article_id": 283,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "Wow, I had no idea Janet Reno had passed away! She was a trailblazer for women in the legal field and her impact on American history cannot be understated. Being the first female US attorney general was a huge achievement and she paved the way for other women to follow in her footsteps. Her legacy will live on for many years to come and I hope that we can continue to honor her contributions to our country. Rest in peace, Janet Reno.",
+        "article_id": 177,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "I was surprised to learn that the coal industry in India has caused such devastating effects on both humans and animals. The fact that the industry does not have any regulations in place to protect these groups is shocking. The story about the elephant crashing into people's homes was particularly surprising, highlighting the dangers that arise from unchecked development. It's important for governments, companies and individuals to take responsibility for the impact that industries have on the environment and local communities, and to advocate for necessary regulations to prevent devastating consequences. This cannot continue to happen. It just makes me sad to see such disregard for life.",
+        "article_id": 336,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "Wow, I had no idea Janet Reno had passed away. It's always shocking to hear about the death of such a prominent figure. She was a true trailblazer, being the first female US attorney general. Her efforts to fight against corruption and to promote equal rights will always be remembered in American history. It's a big loss for the country and I hope we continue to see more women take on leadership roles like she did. Rest in peace, Janet Reno.",
+        "article_id": 177,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "Wow, this news about British red squirrels carrying leprosy is quite surprising. It's interesting to see that even animals can carry a disease that's usually associated with humans. I wonder what impact this will have on the population of red squirrels and if there will be any measures taken to prevent the spread of leprosy among them. It just goes to show how interconnected our world is and how important it is to study and understand all aspects of it.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "It's truly shocking to me that there is still a lack of concern for the endangered African elephants. The fact that the bid for their strongest protection was defeated at a wildlife summit is unfathomable. It makes me so angry to think that people would rather profit off of these animals rather than protect them. It's even more surprising to think that there are still individuals who do not realize the importance of preserving these magnificent creatures. It's time for us to take action and stand up for what's right, before it's too late.",
+        "article_id": 72,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "It's interesting to read about how Americans feel guilty about wasting food, but still continue to do so. I wonder if this is because we have become accustomed to having an abundance of food, and therefore don't value it as much as we should. It's important to recognize that wasting food not only harms the environment, but also perpetuates food insecurity in our communities. I think we need to make a collective effort to reduce our food waste, whether it be through better meal planning, composting, or donating excess food. It's surprising to me that despite awareness around this issue, we still struggle to change our habits.",
+        "article_id": 53,
+        "emotion": "Neutral/Surprise"
+    },
+    {
+        "essay": "The news that suicide deaths are on the rise in kids is extremely concerning. It's such a complex issue with so many contributing factors. It's surprising to think about how young people can feel so overwhelmed and hopeless that they see no other way out. I think increasing access to mental health resources, reducing stigma surrounding mental health issues, and promoting open communication are all essential steps in trying to prevent these tragedies. We all need to be aware of the warning signs and take them seriously if we see them in a child or loved one. This issue deserves immediate attention and action.",
+        "article_id": 304,
+        "emotion": "Neutral/Surprise"
+    },
+    {
+        "essay": "Wow, I had no idea that women in Saudi Arabia had to have a male guardian at all times. That is definitely a surprise to me. I can't imagine how hard it must be for women who just want to live their lives independently, but are unable to do so because of this system. It's really inspiring to see that these women are banding together and taking action to try and change the law. I hope their petition is successful and that they are able to achieve the freedom they deserve. Everyone should have the right to make their own decisions about their lives, no matter their gender.",
+        "article_id": 283,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "Wow, I am surprised to hear that Janet Reno, the first female US attorney general, has passed away at the age of 78. She was a trailblazer for women in politics and her impact on the legal system cannot be overstated. Her tenure saw major cases involving issues such as immigration, civil rights, and terrorism. Her leadership and dedication to justice will be remembered and appreciated for years to come. It's always sad to see a pioneer go, but her legacy will inspire generations of women to follow in her footsteps.",
+        "article_id": 177,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "Wow. I had no idea that the haze from Indonesian fires could have such a devastating impact on human lives. The fact that the study estimates that more than 100,000 people may have died is shocking. It's unacceptable that so many lives were lost due to something that could have been prevented. This study highlights the urgent need for action to be taken to prevent these fires from happening and to address the root causes. We can't continue to ignore the impact of human activity on the environment and on human health. It's time to take responsibility and work towards a more sustainable future.",
+        "article_id": 147,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "It's absolutely disgusting to read about the increasing number of toddlers and preschoolers who are overdosing on opioids. I can't believe that this is even happening. It's so important for parents to be careful with their prescriptions and to keep them out of reach of their children. The fact that so many young children are being affected by this is truly alarming. It's time for the medical community to take a closer look at the prescription of opioids and how they can be controlled better. Something needs to be done to protect our children from this dangerous drug.",
+        "article_id": 301,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "It's infuriating to read about preventable accidents like this one. It's shocking to think that something as simple as a window screen could have prevented this tragedy. I hope that people start taking these types of safety measures more seriously. It's heartbreaking to think about how easily this could have been avoided. This tragedy should absolutely serve as a warning to anyone who lives in a high-rise apartment. We must take better precautions to ensure the safety of ourselves and our loved ones.",
+        "article_id": 169,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "The fact that a young wolf was gunned down by a government sniper after traveling over 700 miles is both disgusting and surprising to me. It's disgusting to think that a government would resort to killing animals instead of finding more humane solutions, and it's surprising to think that a wolf would travel so far only to be met with such a violent end. I can't help but wonder what could have been done differently to ensure the wolf's safety and survival. It's a sad reminder of the impact humans have on wildlife and the importance of finding ways to coexist peacefully.",
+        "article_id": 39,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "It's surprising to me that Americans feel guilty about wasting food, but still continue to do so. It's a problem that not only affects our wallets, but also the environment. The food that we throw away produces methane, a harmful greenhouse gas. We should start taking steps to reduce our waste, such as meal planning and composting. By reducing food waste, we can save money and help the planet. It's time to take action and be mindful of our consumption.",
+        "article_id": 53,
+        "emotion": "Neutral/Surprise"
+    },
+    {
+        "essay": "Wow, I had no idea about the impact of India's coal industry, not just on the environment, but also on humans and animals. It's surprising to learn that the industry is unregulated and that the negative consequences are being ignored. It's heart-wrenching to hear about the wildlife being displaced and injured, and the people being forced to relocate or face health hazards. This is a wake-up call to both the government and the public to take action and regulate the industry to protect both the environment and the lives of those affected.",
+        "article_id": 336,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "It's truly disgusting that ISIS militants are using innocent people as human shields. How can they claim to be fighting for a cause when they have no regard for human life? It's horrifying to think that thousands of people are being held against their will, subjected to the horrors of war. It's just another reminder of the atrocities committed in the name of religion or ideology. The fact that this is still happening in the modern world is shocking and makes me wonder what kind of society we live in. I hope that some kind of intervention can put an end to this madness.",
+        "article_id": 174,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "I couldn't believe it when I heard that Janet Reno had passed away. It's always a surprise when someone who has been such an iconic figure in American politics is suddenly gone. I think her historic appointment as the first female Attorney General was a major accomplishment, and she likely paved the way for many women in politics to follow. It's sad to think that her contributions will no longer be felt, but I hope that she is remembered for all the great work she did for our country.",
+        "article_id": 177,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "I am absolutely furious and surprised that the bid for the strongest protection for all African elephants was defeated at the wildlife summit. It's disgusting how some people prioritize their own greed and profit over the preservation of such magnificent creatures. The fact that elephants are still being killed for their ivory is unacceptable. It's time for a change and for stricter laws to be enforced, not just for the protection of elephants but for all endangered species. It's important for us to educate and spread awareness to put an end to this brutal and senseless killing. We cannot continue to stand by and let this happen. It's time for action.",
+        "article_id": 72,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "I can't believe that the bid for the strongest protection for all African elephants was defeated at the wildlife summit. It's infuriating to see that there are still people who prioritize their own selfish interests over the survival of these magnificent creatures. This is a huge setback in the fight against poaching and the illegal ivory trade. It's shocking to think about how much damage can be done by just a few narrow-minded individuals. It's time for action, and for us to take a stand against those who would put profit before the planet's wellbeing. This isn't just about elephants, it's about the future of our planet, and we need to act now.",
+        "article_id": 72,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "It's surprising to me that in this day and age, there still exists a system where women require male guardianship in order to conduct basic tasks like obtaining a passport or traveling abroad. I applaud these Saudi women who are standing up for their rights and demanding change. It takes courage to challenge such deeply ingrained societal norms, but it's necessary for progress to be made. I hope that this petition leads to the dismantling of the male guardianship system and increased gender equality in Saudi Arabia.",
+        "article_id": 283,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "The news about more and more toddlers and preschoolers overdosing on opioids is absolutely disgusting and surprising. How can anyone be so careless as to leave drugs where young children can access them? It's not just one family, but several families, and clearly this is a problem that has to be addressed. Parents, caregivers, and medical professionals need to be more vigilant in ensuring that these substances are out of reach of children. It is a tragedy to see young lives ruined so early due to an addict's carelessness.",
+        "article_id": 301,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "The tragic incident where a young boy fell from an apartment window is a stark reminder of the need for adequate safety measures. It's alarming to think that these types of accidents are still happening, despite the advancements in technology and building codes. I'm angry that the owner of the building or the parents of the child didn't take the necessary precautions to prevent this tragedy. At the same time, I'm surprised that such an incident could happen in a modern society. We must all take responsibility for the safety of our loved ones, and authorities must ensure that appropriate measures are taken to prevent accidents like this from happening in the future.",
+        "article_id": 169,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "Wow, I can't believe this news about British red squirrels carrying leprosy! It's surprising to think that a disease we often associate with more tropical regions could be found in such a common animal in the UK. It just shows how interconnected our world really is. It's important to keep the public informed about potential risks like this, but it's also important not to overreact and demonize these cute little creatures. With proper precautions, we can all stay safe and healthy while enjoying our natural environment.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "It's absolutely disgusting to hear that toddlers and preschoolers are overdosing on opioids. How can this even happen? It's shocking and surprising to think that young children are being exposed to such dangerous drugs. This highlights a larger issue with the opioid epidemic and the need for stricter regulations on their distribution and use. We need to do everything we can to protect our children and prevent these tragedies from happening.",
+        "article_id": 301,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "It's surprising to hear that Americans feel guilty about wasting food but continue to do so. I think it's a problem that is often overlooked, but it's important to note that food waste has serious environmental and economic consequences. Not only does it contribute to climate change, but it also wastes valuable resources like water and energy that are used to produce the food. I believe educating people on ways to reduce food waste, such as meal planning, composting, and donating excess food to those in need, could go a long way in addressing this issue.",
+        "article_id": 53,
+        "emotion": "Neutral/Surprise"
+    },
+    {
+        "essay": "It's interesting to see that Americans feel guilty about wasting food, yet they continue to do it. I wonder if it's just a lack of education on how to use leftovers or a lack of planning meals properly. It's also surprising to learn that the amount of food wasted in America could feed millions of people. I think we need to start taking this issue more seriously, and perhaps implementing better education and programs to reduce waste. It's a problem that affects not only our society, but also our environment.",
+        "article_id": 53,
+        "emotion": "Neutral/Surprise"
+    },
+    {
+        "essay": "Wow, I never would have thought that red squirrels carried leprosy. It's amazing how much we still have to learn about the animals we share our world with. I'm surprised that it hasn't been discovered sooner, considering how many people come in contact with squirrels on a daily basis. I hope that this discovery can help us better understand and prevent the spread of leprosy to humans. It's a reminder that there is still so much to discover, even in our own backyards.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "The Islamic State continues to prove its disregard for human life. It is appalling and infuriating to hear about them using innocent people as shields, putting their lives at risk for their own agenda. How can anyone justify such heinous acts? It is a surprise that there are those who continue to support this organization in any way. We need to continue standing up against their atrocities and working towards putting an end to their reign of terror.",
+        "article_id": 174,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "Wow, I had no idea that the haze from the Indonesian fires could have killed so many people. It's truly shocking to think about the impact on human health from something so seemingly far away. The fact that it even affected neighboring countries like Singapore is troubling. It's important that we understand the severity of environmental issues like this and take action to prevent them in the future. We can't afford to continue damaging our planet and risking the lives of so many people.",
+        "article_id": 147,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "When I read the news that the haze from the Indonesian fires may have killed over 100,000 people, I was truly surprised. I had no idea that the impact of these fires could be so severe. It's concerning that the harmful air pollution from these fires can cause long-term health issues such as respiratory problems and heart disease. It's important for Indonesia, neighboring countries, and the international community to come together to address this issue and prevent it from happening again in the future. It's shocking that the fires have caused so much damage and loss of life.",
+        "article_id": 147,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "I never would have thought that red squirrels could carry leprosy! This is definitely a surprising discovery. I wonder how this will affect conservation efforts for the red squirrel population in Britain. It also makes me curious if there are other animals that can carry the disease that we haven't discovered yet. It's always interesting to learn new things about the natural world, even if they're unexpected.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "The effects of the coal industry on both humans and animals in India is truly surprising. It's alarming to read about the negative impact on the environment, including air and water pollution, deforestation, and habitat destruction. What's even more shocking is the human toll, including respiratory illnesses and displacement of communities. We have to find better ways to balance economic growth with protecting the natural world and ensuring the safety of people. It's a sobering reminder of the consequences of not taking responsibility for our actions.",
+        "article_id": 336,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "I'm not too surprised to hear that Americans feel guilty about wasting too much food but still do it. It's easy to get caught up in our busy lives and neglect to pay attention to the food we have in our homes. It's sad to think that so many people go hungry while we throw away perfectly good food. I wonder if there is more education that we can receive regarding food waste and the impact it has on our environment and society. Perhaps by being more conscious of our habits, we can make a positive change.",
+        "article_id": 53,
+        "emotion": "Neutral/Surprise"
+    },
+    {
+        "essay": "It's disgusting that Islamic State militants are still resorting to kidnapping innocent civilians and using them as human shields. The fact that they have no regard for human life and can stoop this low just goes to show the level of hatred and extremism they possess. It's surprising that in today's day and age, such barbaric acts still occur, and it's important for governments to take swift action against these terrorists. It's time to put an end to this violence and ensure the safety of all people, regardless of their beliefs or background.",
+        "article_id": 174,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "It's heart-wrenching to read about the crisis that residents of Aleppo are facing. To receive a text message saying that they have only 24 hours to leave is unimaginable. It's a devastating realization that they are being forced out of their homes and their livelihoods. I'm surprised that this is how the situation has been handled by those in power. It's a blatant disregard for human life and dignity. My heart goes out to those affected by this turmoil and I can only hope that they find safety and support during this difficult time.",
+        "article_id": 47,
+        "emotion": "Sadness/Surprise"
+    },
+    {
+        "essay": "Wow, I never knew that red squirrels could carry leprosy! This is definitely surprising news. It just goes to show how much we still have to learn about the animals we share our world with. I hope that this discovery will lead to more research and ultimately, better understanding and treatment of leprosy. It's amazing what science can uncover, and who knows what other surprises we'll find in the natural world in the future.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "It's surprising to realize the sheer magnitude of the impact that the coal industry has on both humans and animals in India. I had no idea that it was causing such devastation to ecosystems and forcing entire communities to relocate. While it's unfortunate that such a vital industry is having such an impact, steps need to be taken to regulate it and mitigate the negative effects. It's important that these issues come to light and that action is taken to preserve both human and animal life.",
+        "article_id": 336,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "I am furious and shocked by the news that the bid for the strongest protection for African elephants was defeated at the wildlife summit. How can we allow the killing of these majestic animals to continue? It is unacceptable that the demand for ivory outweighs the need to protect a species from extinction. It's surprising that despite all the attention brought to this issue, nothing significant has been done to address it. We need to take immediate action and work towards ending the killing of elephants for ivory. We owe it to these animals to protect them and ensure a future for them on this planet.",
+        "article_id": 72,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "Learning about the rise in suicide deaths among kids is both surprising and concerning. It's hard to imagine that children can feel such a level of despair and hopelessness to consider taking their own lives. It's important to address this issue head-on and take steps towards prevention. We need to provide better mental health resources and support for children, as well as educate parents and teachers on signs of distress. It's a complicated issue but one that we can't ignore.",
+        "article_id": 304,
+        "emotion": "Neutral/Surprise"
+    },
+    {
+        "essay": "I was surprised to learn about the male guardianship system in Saudi Arabia. It seems archaic and restricting to women's rights and freedoms. I admire the women who are standing up against this system and filing a petition to end it. It takes a lot of courage to challenge cultural norms and fight for change. I hope their efforts are successful and the women in Saudi Arabia can enjoy equal rights and opportunities as men. It's time to embrace progress and leave discriminatory practices behind.",
+        "article_id": 283,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "When I read the title of this article, I was truly surprised. I always knew air pollution wasn't good for us, but I never would have guessed that it could have such severe outcomes. It's alarming to think about how much we expose ourselves to pollution simply by going about our daily lives. It makes me wonder what other unseen dangers are out there that we're not aware of. This study is a wake-up call to pay more attention to the quality of the air we breathe and to take action to reduce our pollution levels. We owe it to ourselves, and to our fellow citizens, to keep our environment as safe and healthy as possible.",
+        "article_id": 302,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "I can't believe a government sniper would gun down a young wolf after it traveled over 700 miles. It's disgusting to think that people would be so cruel to an innocent animal just trying to find a new home. The fact that it took so long to travel that distance just shows how determined the wolf was to find a new family and live a better life. This act goes against everything we should stand for as humans, and it is disgusting to think that someone would take such actions. It's a surprise to think that someone can be so cruel without thinking about the consequences of their actions. I hope that justice will be served in this situation, and those responsible for this terrible act will be held accountable.",
+        "article_id": 39,
+        "emotion": "Disgust/Surprise"
+    },
+    {
+        "essay": "It's so frustrating to hear about preventable tragedies like this. Why wasn't there appropriate safety measures on the window to prevent accidents like this from happening? This is a classic case of negligence on the part of the caregivers. It only takes one moment of carelessness for something like this to happen. Parents, guardians, and building owners should be held accountable in such situations. It's a shame that a young life was lost due to their oversight. Let's hope this serves as a warning for everyone to consistently be vigilant in ensuring safety measures are in place to prevent accidents.",
+        "article_id": 169,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "The fact that Islamic State militants are using innocent people as human shields is both angering and surprising. How can anyone have so little regard for human life? It's disgusting and unacceptable. These types of actions only serve to further fuel the hatred and terror perpetrated by these groups. It's time for the international community to take a strong stance against such atrocities and work towards bringing justice to those affected. No one should ever have to suffer in this way.",
+        "article_id": 174,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "I am absolutely furious and shocked to read about the Islamic State's latest tactic of using innocent people as human shields. How heartless and cowardly can they be to use the lives of others to protect their own? It is disgusting to see these militants continue to harm and terrorize innocent civilians. We must take action to stop them and protect those who are being targeted. It is unacceptable for these atrocities to continue. Every effort must be made to rescue these people and bring those responsible to justice.",
+        "article_id": 174,
+        "emotion": "Anger/Surprise"
+    },
+    {
+        "essay": "Wow, I never would have thought that red squirrels could carry leprosy. It's quite surprising that such a small creature could host a disease that was once so prevalent in humans. I hope this discovery leads to further research and understanding of leprosy, and perhaps even a way to prevent its spread among not only squirrels, but other animals and humans as well. It just goes to show how much we still have to learn about the natural world.",
+        "article_id": 308,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "I am stunned and saddened to learn that the haze from the Indonesian fires may have caused so many deaths. The number is staggering and it makes me wonder why there isn't more attention being paid to this issue. What can we do to prevent this type of tragedy from happening again in the future? It's clear that we need a global effort to combat climate change and deforestation, but how do we get there? This news is a wake-up call and we must take action before it's too late.",
+        "article_id": 147,
+        "emotion": "Surprise"
+    },
+    {
+        "essay": "Wow, I had no idea that the male guardianship system was still in place in Saudi Arabia. It's shocking to think that women are still being denied basic freedoms and rights. It's wonderful that these women are standing up for themselves and advocating for change. I hope that their petition is successful and that progress is made towards gender equality. It's time for Saudi Arabia to join the rest of the world in recognizing women as independent individuals capable of making their own decisions.",
+        "article_id": 283,
+        "emotion": "Surprise"
+    }
+]
