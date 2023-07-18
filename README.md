@@ -1,5 +1,7 @@
 # Introduction
-This is a repo storing code for WASSA Workshop, ACL23. This repo only contains our code for CONV Track for now.
+This is a repo storing code for WASSA Workshop, ACL23. We participate Track1 CONV, Track2 EMP, Track3 EMO. and won the 1,3,4 place separately.
+
+For more details, go to [official website](https://codalab.lisn.upsaclay.fr/competitions/11167) please.
 
 # Paper
 For more details, please read our paper
